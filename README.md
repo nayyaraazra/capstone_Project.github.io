@@ -63,7 +63,6 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 
 ## 📸 Application Preview
 
-*Add a GIF demo or several screenshots here*
 
 **Desktop View** 
 
