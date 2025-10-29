@@ -66,7 +66,7 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 
 **Desktop View** 
 
-<img width="707" height="476" alt="image" src="https://github.com/user-attachments/assets/bec54833-b70f-4db2-a310-a03d0c3e77f4" />
+<img width="929" height="744" alt="Screenshot 2025-10-27 153728" src="https://github.com/user-attachments/assets/9cf7fee3-f39a-43c4-bed9-f81ba439576e" />
 
 
 **Mobile View**
@@ -160,4 +160,4 @@ This application is built as a static site and can be easily deployed to any sta
 ## 📜 License
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
->>>>>>> 1cc1903b9e7d41c4930e101f2889701cae06c606
+
