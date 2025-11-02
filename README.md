@@ -113,7 +113,7 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 | **Data Management** | SessionStorage API, React Hooks |
 | **Development Tools** | Node.js, npm, ESLint, VS Code |
 | **Version Control** | Git & GitHub |
-| **Deployment Platforms** | Netlify, Vercel, GitHub Pages |
+| **Deployment Platforms** | Netlify, GitHub Pages |
 
 -----
 
