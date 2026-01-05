@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HiSpyWAre/capstone_Project.github.io.git/static/css/main.8955555e.css",
-    "main.js": "/HiSpyWAre/capstone_Project.github.io.git/static/js/main.140fcf57.js",
-    "static/js/453.df83a4a9.chunk.js": "/HiSpyWAre/capstone_Project.github.io.git/static/js/453.df83a4a9.chunk.js",
-    "index.html": "/HiSpyWAre/capstone_Project.github.io.git/index.html",
-    "main.8955555e.css.map": "/HiSpyWAre/capstone_Project.github.io.git/static/css/main.8955555e.css.map",
-    "main.140fcf57.js.map": "/HiSpyWAre/capstone_Project.github.io.git/static/js/main.140fcf57.js.map",
-    "453.df83a4a9.chunk.js.map": "/HiSpyWAre/capstone_Project.github.io.git/static/js/453.df83a4a9.chunk.js.map"
+    "main.css": "/nayyaraazra/capstone_Project.github.io.git/static/css/main.8955555e.css",
+    "main.js": "/nayyaraazra/capstone_Project.github.io.git/static/js/main.d45594cd.js",
+    "static/js/453.df83a4a9.chunk.js": "/nayyaraazra/capstone_Project.github.io.git/static/js/453.df83a4a9.chunk.js",
+    "index.html": "/nayyaraazra/capstone_Project.github.io.git/index.html",
+    "main.8955555e.css.map": "/nayyaraazra/capstone_Project.github.io.git/static/css/main.8955555e.css.map",
+    "main.d45594cd.js.map": "/nayyaraazra/capstone_Project.github.io.git/static/js/main.d45594cd.js.map",
+    "453.df83a4a9.chunk.js.map": "/nayyaraazra/capstone_Project.github.io.git/static/js/453.df83a4a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8955555e.css",
-    "static/js/main.140fcf57.js"
+    "static/js/main.d45594cd.js"
   ]
 }
