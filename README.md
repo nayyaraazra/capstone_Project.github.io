@@ -8,7 +8,7 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 
 ## 📍 Live Demo
 
-[**View the live application here**](https://youtube.com)
+[**View the live application here**]((https://nayyaraazra.github.io/capstone_Project.github.io/))
 
 ## 📸 Application Preview
 
