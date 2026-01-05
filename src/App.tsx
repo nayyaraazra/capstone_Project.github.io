@@ -447,7 +447,7 @@ export default function App  () {
       </div>
 
       <div className="mt-12 py-6 text-center text-gray-600 text-sm border-t border-gray-200 bg-white">
-        <p>Task Master © 2024 | Built with React & Tailwind CSS</p>
+        <p>Task Master © 2025 | Built with React & Tailwind CSS</p>
         <p className="mt-1">AI-Assisted Development with IBM Granite</p>
       </div>
     </div>

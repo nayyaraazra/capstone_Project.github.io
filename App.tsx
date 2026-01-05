@@ -37,13 +37,13 @@ export default function App  () {
   const statuses = ['pending', 'in-progress', 'completed'];
 
   useEffect(() => {
-    const savedTasks = JSON.parse(sessionStorage.getItem('taskmaster-tasks') || '[]');
+    const savedTasks = JSON.parse(localStorage.getItem('taskmaster-tasks') || '[]');
     setTasks(savedTasks);
     setFilteredTasks(savedTasks);
   }, []);
 
   useEffect(() => {
-    sessionStorage.setItem('taskmaster-tasks', JSON.stringify(tasks));
+    localStorage.setItem('taskmaster-tasks', JSON.stringify(tasks));
     applyFilters();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [tasks, searchQuery, filterStatus, filterPriority, filterCategory]);
