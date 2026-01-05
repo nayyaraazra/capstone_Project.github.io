@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,8 +45,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-=======
-draft 
+======= 
 
 -----
 
@@ -60,16 +59,20 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 
 ## 📍 Live Demo
 
-[**View the live application here**](https://your-live-demo-link.com)
+[**View the live application here**](https://youtube.com)
 
 ## 📸 Application Preview
 
-*Add a GIF demo or several screenshots here (blm jadi*
 
-| Desktop View | Mobile View |
-| <img width="707" height="476" alt="image" src="https://github.com/user-attachments/assets/bec54833-b70f-4db2-a310-a03d0c3e77f4" />
- | :---: |
-|  |  |
+**Desktop View** 
+
+<img width="929" height="744" alt="Screenshot 2025-10-27 153728" src="https://github.com/user-attachments/assets/9cf7fee3-f39a-43c4-bed9-f81ba439576e" />
+
+
+**Mobile View**
+
+ <img width="384" height="855" alt="image" src="https://github.com/user-attachments/assets/630dcf97-69c7-441b-8d2e-02b42a543e9f" /> |
+
 
 -----
 
@@ -110,7 +113,7 @@ This is a full-featured **CRUD** (Create, Read, Update, Delete) application desi
 | **Data Management** | SessionStorage API, React Hooks |
 | **Development Tools** | Node.js, npm, ESLint, VS Code |
 | **Version Control** | Git & GitHub |
-| **Deployment Platforms** | Netlify, Vercel, GitHub Pages |
+| **Deployment Platforms** | Netlify, GitHub Pages |
 
 -----
 
@@ -157,4 +160,4 @@ This application is built as a static site and can be easily deployed to any sta
 ## 📜 License
 
 Distributed under the MIT License. See the `LICENSE` file for more information.
->>>>>>> 1cc1903b9e7d41c4930e101f2889701cae06c606
+
